@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{BE458624-4B62-4075-9476-9C5BCAB60FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE458624-4B62-4075-9476-9C5BCAB60FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE458624-4B62-4075-9476-9C5BCAB60FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE458624-4B62-4075-9476-9C5BCAB60FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE458624-4B62-4075-9476-9C5BCAB60FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83B3CB5-22A3-4B5F-BB8B-8E4BCD575715}
+	EndGlobalSection
+EndGlobal
