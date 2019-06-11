@@ -76,6 +76,17 @@
         }
       ],
       "UpstreamPathTemplate": "/artistas/{catchAll}"
+    },
+    {
+      "DownstreamPathTemplate": "/v1/playlists/{catchAll}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5012
+        }
+      ],
+      "UpstreamPathTemplate": "/playlists/{catchAll}"
     }
 
   ],
